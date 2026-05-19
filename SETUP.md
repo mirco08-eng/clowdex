@@ -124,6 +124,17 @@ Scanne zuerst, stelle dann Fragen — warte nicht auf mich, bevor du den ersten 
 | `/review` | Code- oder Arbeits-Review |
 | `/retro` | Sprint-Retrospektive |
 | `/system-audit` | Tiefenprüfung der Systeminfrastruktur |
+| `/standup` | Tägliches Standup aus Git und Aufgaben |
+| `/launch` | Vollständige Produkt-Launch-Pipeline |
+| `/report` | Professionellen Bericht aus Daten erstellen |
+| `/brief` | Rohe Idee in strukturiertes Projektbriefing verwandeln |
+| `/market-scan` | Wettbewerbsanalyse durchführen |
+| `/proposal` | Kundenangebot aus Projektbriefing erstellen |
+| `/release` | Release Notes aus Git-Historie generieren |
+| `/handoff` | Strukturierte Session-Übergabe |
+| `/check-drift` | Veraltete Regeln und Widersprüche erkennen |
+| `/create-playbook` | Workflow aufzeichnen und als Befehl speichern |
+| `/tech-debt` | Technische Schulden kartieren und priorisieren |
 
 ## FAQ
 
